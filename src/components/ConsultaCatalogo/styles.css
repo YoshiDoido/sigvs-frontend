@@ -1,0 +1,25 @@
+.Catalogo {
+    text-align: left;
+    padding: "0.5rem";
+    font-size: 5px;
+    margin-left: 70px;
+}
+
+.table {
+    line-height: 1; /* Define a altura da linha para a tabela */
+}
+
+.table tbody tr td {
+    padding: 5px; /* Define o preenchimento para as células
+    da tabela */
+    font-size: 12px;
+}
+
+.button {
+    padding: 5px;
+    font-size: 12px;
+}
+    
+.small-text {
+    font-size: 14px;
+}
